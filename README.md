@@ -75,7 +75,7 @@ This work builds upon the SAX-NeRF implementation [caiyuanhao1998/SAX-NeRF](http
 ## Citation
 If this repo helps you, please consider citing our works:
 
-```sh
+```tex
 # SAX-NeRF
 @inproceedings{sax_nerf,
   title={Structure-Aware Sparse-View X-ray 3D Reconstruction},
