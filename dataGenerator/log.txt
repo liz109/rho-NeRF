@@ -1,0 +1,54 @@
+# ====================================================================================
+
+[Start] exp: chest_50
+*[Algo]: fdk
+{'psnr_3d': 22.891528537810313, 'ssim_3d': 0.7861336214075768, 'CT_reconstruct_time': 5.771074056625366}
+*[Algo]: sart
+SART algorithm in progress.
+Estimated time until completion : 00:11:18
+{'psnr_3d': 32.1730135035898, 'ssim_3d': 0.959445540939826, 'CT_reconstruct_time': 905.133519411087}
+*[Algo]: asd_pocs
+ASD_POCS algorithm in progress.
+Estimated time until completion : 00:22:25
+
+     Stop criteria met:
+     c = -0.85179716
+     beta = 0.994014980014994
+     iter = 6
+
+{'psnr_3d': 31.125567465026332, 'ssim_3d': 0.9421455432599007, 'CT_reconstruct_time': 1464.7262749671936}
+*[Algo]: cgls
+CGLS algorithm in progress.
+Estimated time until completion : 00:01:13
+Average time taken for each iteration for CGLS:0.22873376106726936(s)
+{'psnr_3d': 32.482563933252294, 'ssim_3d': 0.9447265757331141, 'CT_reconstruct_time': 78.59696817398071}
+Update chest_50 successfully!!!
+Elapsed time: 40m 58.02s
+# ====================================================================================
+
+[Start] exp: aneurism_50
+*[Algo]: fdk
+{'psnr_3d': 28.075997805080867, 'ssim_3d': 0.7295273016260455, 'CT_reconstruct_time': 3.661982774734497}
+*[Algo]: sart
+SART algorithm in progress.
+Estimated time until completion : 00:11:29
+{'psnr_3d': 34.76036404208434, 'ssim_3d': 0.9864252131945666, 'CT_reconstruct_time': 894.231055021286}
+*[Algo]: asd_pocs
+ASD_POCS algorithm in progress.
+Estimated time until completion : 00:32:43
+
+     Stop criteria met:
+     c = -0.21285756
+     beta = 0.994014980014994
+     iter = 6
+
+{'psnr_3d': 34.726643427474045, 'ssim_3d': 0.9864325196042065, 'CT_reconstruct_time': 1291.2911028862}
+*[Algo]: cgls
+CGLS algorithm in progress.
+Estimated time until completion : 00:01:22
+Average time taken for each iteration for CGLS:0.2967293479363434(s)
+{'psnr_3d': 32.75392054124929, 'ssim_3d': 0.9178901423798137, 'CT_reconstruct_time': 88.30894303321838}
+Update aneurism_50 successfully!!!
+Elapsed time: 38m 37.91s
+# ====================================================================================
+

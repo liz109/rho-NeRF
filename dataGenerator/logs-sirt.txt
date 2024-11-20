@@ -1,0 +1,52 @@
+[Start] exp: chest_50
+*[Algo]: sirt
+SART algorithm in progress.
+Estimated time until completion : 00:00:02
+{'psnr_3d': 31.47585263683972, 'ssim_3d': 0.9542750345791976, 'CT_reconstruct_time': 3.72715425491333}
+Update chest_50 successfully!!!
+Elapsed time: 0m 4.99s
+
+
+[Start] exp: aneurism_50
+*[Algo]: sirt
+SART algorithm in progress.
+Estimated time until completion : 00:00:26
+{'psnr_3d': 33.934319324135174, 'ssim_3d': 0.9836478451242235, 'CT_reconstruct_time': 36.49836611747742}
+Update aneurism_50 successfully!!!
+Elapsed time: 0m 48.85s
+
+
+[Start] exp: leg_50
+*[Algo]: sirt
+SART algorithm in progress.
+Estimated time until completion : 00:00:18
+{'psnr_3d': 34.46565751100259, 'ssim_3d': 0.977226335825975, 'CT_reconstruct_time': 24.886931896209717}
+Update leg_50 successfully!!!
+Elapsed time: 0m 31.28s
+
+[Start] exp: jaw_50
+*[Algo]: sirt
+SART algorithm in progress.
+Estimated time until completion : 00:00:26
+{'psnr_3d': 32.77840135314434, 'ssim_3d': 0.926860867560474, 'CT_reconstruct_time': 36.51846718788147}
+Update jaw_50 successfully!!!
+Elapsed time: 0m 47.93s
+
+# ============= =============
+
+[Start] exp: foot_50
+*[Algo]: sirt
+SART algorithm in progress.
+Estimated time until completion : 00:12:36
+{'psnr_3d': 29.77003055743311, 'ssim_3d': 0.9238842337443876, 'CT_reconstruct_time': 1131.803780555725}
+Update foot_50 successfully!!!
+Elapsed time: 19m 2.50s
+
+
+[Start] exp: head_50
+*[Algo]: sirt
+SART algorithm in progress.
+Estimated time until completion : 00:14:11
+{'psnr_3d': 34.43682802663997, 'ssim_3d': 0.9576400234830299, 'CT_reconstruct_time': 1155.51820230484}
+Update head_50 successfully!!!
+Elapsed time: 19m 21.16s

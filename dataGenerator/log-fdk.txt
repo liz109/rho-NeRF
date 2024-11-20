@@ -1,0 +1,103 @@
+[Start] exp: chest_50
+*[Algo]: fdk
+{'psnr_3d': 22.89009683874117, 'ssim_3d': 0.7861344762683659, 'CT_reconstruct_time': 0.28801560401916504}
+Update chest_50 successfully!!!
+Elapsed time: 0m 1.42s
+
+
+[Start] exp: aneurism_50
+*[Algo]: fdk
+{'psnr_3d': 28.075992356592284, 'ssim_3d': 0.7295271167468163, 'CT_reconstruct_time': 0.6468124389648438}
+Update aneurism_50 successfully!!!
+Elapsed time: 0m 12.15s
+
+
+[Start] exp: leg_50
+*[Algo]: fdk
+{'psnr_3d': 28.47748166449348, 'ssim_3d': 0.6690245357881053, 'CT_reconstruct_time': 0.506495475769043}
+Update leg_50 successfully!!!
+Elapsed time: 0m 5.89s
+
+
+[Start] exp: jaw_50
+*[Algo]: fdk
+{'psnr_3d': 28.577502691037044, 'ssim_3d': 0.7816321814379698, 'CT_reconstruct_time': 0.6325273513793945}
+Update jaw_50 successfully!!!
+Elapsed time: 0m 11.72s
+
+[Start] exp: abdomen_50
+*[Algo]: fdk
+{'psnr_3d': 22.626780017113028, 'ssim_3d': 0.6030118167827737, 'CT_reconstruct_time': 3.140133857727051}
+Update abdomen_50 successfully!!!
+Elapsed time: 1m 21.84s
+
+
+[Start] exp: backpack_50
+*[Algo]: fdk
+{'psnr_3d': 23.84073354181431, 'ssim_3d': 0.5351030863799097, 'CT_reconstruct_time': 2.782435655593872}
+Update backpack_50 successfully!!!
+Elapsed time: 1m 8.51s
+
+
+[Start] exp: bonsai_50
+*[Algo]: fdk
+{'psnr_3d': 24.532598297668947, 'ssim_3d': 0.7275838159393176, 'CT_reconstruct_time': 0.645378828048706}
+Update bonsai_50 successfully!!!
+Elapsed time: 0m 11.09s
+
+
+
+[Start] exp: box_50
+*[Algo]: fdk
+{'psnr_3d': 24.144037360118226, 'ssim_3d': 0.5616306259859591, 'CT_reconstruct_time': 2.166790246963501}
+Update box_50 successfully!!!
+Elapsed time: 0m 50.55s
+
+
+[Start] exp: carp_50
+*[Algo]: fdk
+{'psnr_3d': 32.31796062092906, 'ssim_3d': 0.8177351223458297, 'CT_reconstruct_time': 1.3040711879730225}
+Update carp_50 successfully!!!
+Elapsed time: 0m 25.15s
+
+
+[Start] exp: engine_50
+*[Algo]: fdk
+{'psnr_3d': 23.01880285414368, 'ssim_3d': 0.5404602480758504, 'CT_reconstruct_time': 0.5637726783752441}
+Update engine_50 successfully!!!
+Elapsed time: 0m 6.13s
+
+
+[Start] exp: foot_50
+*[Algo]: fdk
+{'psnr_3d': 24.534339393261277, 'ssim_3d': 0.5999966886183709, 'CT_reconstruct_time': 0.6540024280548096}
+Update foot_50 successfully!!!
+Elapsed time: 0m 11.28s
+
+
+[Start] exp: head_50
+*[Algo]: fdk
+{'psnr_3d': 26.16507772935629, 'ssim_3d': 0.7154670020797728, 'CT_reconstruct_time': 0.5398211479187012}
+Update head_50 successfully!!!
+Elapsed time: 0m 6.05s
+
+
+[Start] exp: pancreas_50
+*[Algo]: fdk
+{'psnr_3d': 9.6415587637049, 'ssim_3d': 0.1231811573429224, 'CT_reconstruct_time': 2.1792759895324707}
+Update pancreas_50 successfully!!!
+Elapsed time: 0m 44.57s
+
+
+[Start] exp: pelvis_50
+*[Algo]: fdk
+{'psnr_3d': 26.91149154539479, 'ssim_3d': 0.6367056407780853, 'CT_reconstruct_time': 1.8504996299743652}
+Update pelvis_50 successfully!!!
+Elapsed time: 0m 29.70s
+
+
+[Start] exp: teapot_50
+*[Algo]: fdk
+{'psnr_3d': 31.06711459792401, 'ssim_3d': 0.8058674456344063, 'CT_reconstruct_time': 0.57747483253479}
+Update teapot_50 successfully!!!
+Elapsed time: 0m 6.94s

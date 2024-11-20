@@ -1,0 +1,71 @@
+# ====================================================================================
+
+[Start] exp: chest_50
+*[Algo]: fdk
+{'psnr_3d': 22.89009683874117, 'ssim_3d': 0.7861344762683659, 'CT_reconstruct_time': 0.1627349853515625}
+*[Algo]: sirt
+SART algorithm in progress.
+Estimated time until completion : 00:00:02
+{'psnr_3d': 31.47585263683972, 'ssim_3d': 0.9542750345791976, 'CT_reconstruct_time': 3.1550891399383545}
+*[Algo]: cgls
+CGLS algorithm in progress.
+Estimated time until completion : 00:00:00
+Average time taken for each iteration for CGLS:0.01581273019546643(s)
+{'psnr_3d': 24.441245164646595, 'ssim_3d': 0.772150926506353, 'CT_reconstruct_time': 0.27378416061401367}
+Update chest_50 successfully!!!
+Elapsed time: 0m 6.56s
+
+# ====================================================================================
+
+
+[Start] exp: aneurism_50
+*[Algo]: fdk
+{'psnr_3d': 28.075992356592284, 'ssim_3d': 0.7295271167468163, 'CT_reconstruct_time': 0.486361026763916}
+*[Algo]: sirt
+SART algorithm in progress.
+Estimated time until completion : 00:00:24
+{'psnr_3d': 33.934319324135174, 'ssim_3d': 0.9836478451242235, 'CT_reconstruct_time': 33.51198172569275}
+*[Algo]: cgls
+CGLS algorithm in progress.
+Estimated time until completion : 00:00:01
+Average time taken for each iteration for CGLS:0.11064886999083683(s)
+{'psnr_3d': 30.084832406500276, 'ssim_3d': 0.9272196366753501, 'CT_reconstruct_time': 2.009549617767334}
+Update aneurism_50 successfully!!!
+Elapsed time: 1m 7.11s
+
+# ====================================================================================
+
+
+[Start] exp: leg_50
+*[Algo]: fdk
+{'psnr_3d': 28.47748166449348, 'ssim_3d': 0.6690245357881053, 'CT_reconstruct_time': 0.3704695701599121}
+*[Algo]: sirt
+SART algorithm in progress.
+Estimated time until completion : 00:00:16
+{'psnr_3d': 34.46565751100259, 'ssim_3d': 0.977226335825975, 'CT_reconstruct_time': 22.387133598327637}
+*[Algo]: cgls
+CGLS algorithm in progress.
+Estimated time until completion : 00:00:01
+Average time taken for each iteration for CGLS:0.11808655279455707(s)
+{'psnr_3d': 28.229036912997994, 'ssim_3d': 0.8121731769944569, 'CT_reconstruct_time': 1.8654248714447021}
+Update leg_50 successfully!!!
+Elapsed time: 0m 39.36s
+
+# ====================================================================================
+
+[Start] exp: jaw_50
+*[Algo]: fdk
+{'psnr_3d': 28.577502691037044, 'ssim_3d': 0.7816321814379698, 'CT_reconstruct_time': 0.5161025524139404}
+*[Algo]: sirt
+SART algorithm in progress.
+Estimated time until completion : 00:00:24
+{'psnr_3d': 32.77840135314434, 'ssim_3d': 0.926860867560474, 'CT_reconstruct_time': 33.07247853279114}
+*[Algo]: cgls
+CGLS algorithm in progress.
+Estimated time until completion : 00:00:01
+Average time taken for each iteration for CGLS:0.11002727199811488(s)
+{'psnr_3d': 28.806988225672598, 'ssim_3d': 0.8536165810173185, 'CT_reconstruct_time': 1.990647792816162}
+Update jaw_50 successfully!!!
+Elapsed time: 1m 6.62s
+
+# ====================================================================================

@@ -1,0 +1,156 @@
+[Start] exp: chest_50
+*[Algo]: cgls
+CGLS algorithm in progress.
+Estimated time until completion : 00:00:00
+Average time taken for each iteration for CGLS:0.01975108861224726(s)
+{'psnr_3d': 24.441245164646595, 'ssim_3d': 0.772150926506353, 'CT_reconstruct_time': 0.476454496383667}
+Update chest_50 successfully!!!
+Elapsed time: 0m 1.76s
+
+
+[Start] exp: aneurism_50
+*[Algo]: cgls
+CGLS algorithm in progress.
+Estimated time until completion : 00:00:03
+Average time taken for each iteration for CGLS:0.30186382979154586(s)
+{'psnr_3d': 30.084832406500276, 'ssim_3d': 0.9272196366753501, 'CT_reconstruct_time': 4.446374177932739}
+Update aneurism_50 successfully!!!
+Elapsed time: 0m 16.06s
+
+
+[Start] exp: leg_50
+*[Algo]: cgls
+CGLS algorithm in progress.
+Estimated time until completion : 00:00:03
+Average time taken for each iteration for CGLS:0.41195898118894547(s)
+{'psnr_3d': 28.229036912997994, 'ssim_3d': 0.8121731769944569, 'CT_reconstruct_time': 5.643282413482666}
+Update leg_50 successfully!!!
+Elapsed time: 0m 11.01s
+
+
+[Start] exp: jaw_50
+*[Algo]: cgls
+CGLS algorithm in progress.
+Estimated time until completion : 00:00:02
+Average time taken for each iteration for CGLS:0.3015731435967609(s)
+{'psnr_3d': 28.806988225672598, 'ssim_3d': 0.8536165810173185, 'CT_reconstruct_time': 4.465797424316406}
+Update jaw_50 successfully!!!
+Elapsed time: 0m 15.61s
+
+
+[Start] exp: abdomen_50
+*[Algo]: cgls
+CGLS algorithm in progress.
+Estimated time until completion : 00:00:13
+Average time taken for each iteration for CGLS:1.2905872470000759(s)
+{'psnr_3d': 26.00321470438321, 'ssim_3d': 0.7752361535058311, 'CT_reconstruct_time': 19.783785343170166}
+Update abdomen_50 successfully!!!
+Elapsed time: 1m 39.13s
+
+
+[Start] exp: backpack_50
+*[Algo]: cgls
+CGLS algorithm in progress.
+Estimated time until completion : 00:00:16
+Average time taken for each iteration for CGLS:1.7534472612082026(s)
+{'psnr_3d': 28.00469080394484, 'ssim_3d': 0.833515044013338, 'CT_reconstruct_time': 24.169623374938965}
+Update backpack_50 successfully!!!
+Elapsed time: 1m 28.97s
+
+
+[Start] exp: bonsai_50
+*[Algo]: cgls
+CGLS algorithm in progress.
+Estimated time until completion : 00:00:03
+Average time taken for each iteration for CGLS:0.3101151182083413(s)
+{'psnr_3d': 26.279474776324466, 'ssim_3d': 0.8200702596501445, 'CT_reconstruct_time': 4.533334255218506}
+Update bonsai_50 successfully!!!
+Elapsed time: 0m 15.78s
+
+[Start] exp: aneurism_50
+*[Algo]: cgls
+CGLS algorithm in progress.
+Estimated time until completion : 00:00:01
+Average time taken for each iteration for CGLS:0.12313291499158367(s)
+{'psnr_3d': 30.084832406500276, 'ssim_3d': 0.9272196366753501, 'CT_reconstruct_time': 2.338618755340576}
+Update aneurism_50 successfully!!!
+Elapsed time: 0m 13.58s
+
+
+[Start] exp: box_50
+*[Algo]: cgls
+CGLS algorithm in progress.
+Estimated time until completion : 00:00:09
+Average time taken for each iteration for CGLS:0.7929951408063062(s)
+{'psnr_3d': 28.691647448392178, 'ssim_3d': 0.8386270804698063, 'CT_reconstruct_time': 13.195954084396362}
+dUpdate box_50 successfully!!!
+Elapsed time: 1m 12.84s
+
+[Start] exp: carp_50
+*[Algo]: cgls
+CGLS algorithm in progress.
+Estimated time until completion : 00:00:03
+Average time taken for each iteration for CGLS:0.23524434459395707(s)
+{'psnr_3d': 29.844465505041047, 'ssim_3d': 0.8819278120117008, 'CT_reconstruct_time': 4.537887334823608}
+Update carp_50 successfully!!!
+Elapsed time: 0m 28.15s
+
+
+[Start] exp: engine_50
+*[Algo]: cgls
+CGLS algorithm in progress.
+Estimated time until completion : 00:00:01
+Average time taken for each iteration for CGLS:0.07962964259786531(s)
+{'psnr_3d': 22.80415489194344, 'ssim_3d': 0.6678293593185133, 'CT_reconstruct_time': 1.5536131858825684}
+Update engine_50 successfully!!!
+Elapsed time: 0m 7.10s
+
+
+[Start] exp: foot_50
+*[Algo]: cgls
+CGLS algorithm in progress.
+Estimated time until completion : 00:00:01
+Average time taken for each iteration for CGLS:0.12634222840424628(s)
+{'psnr_3d': 25.39311263739196, 'ssim_3d': 0.7901807462437151, 'CT_reconstruct_time': 2.319774627685547}
+Update foot_50 successfully!!!
+Elapsed time: 0m 13.14s
+
+
+[Start] exp: head_50
+*[Algo]: cgls
+CGLS algorithm in progress.
+Estimated time until completion : 00:00:01
+Average time taken for each iteration for CGLS:0.08737792379688472(s)
+{'psnr_3d': 29.19231108050163, 'ssim_3d': 0.8803214404752797, 'CT_reconstruct_time': 1.663435697555542}
+Update head_50 successfully!!!
+Elapsed time: 0m 7.19s
+
+
+[Start] exp: pancreas_50
+*[Algo]: cgls
+CGLS algorithm in progress.
+Estimated time until completion : 00:00:05
+Average time taken for each iteration for CGLS:0.47162773021264004(s)
+{'psnr_3d': 15.195422049194603, 'ssim_3d': 0.44930995512016025, 'CT_reconstruct_time': 8.479047536849976}
+Update pancreas_50 successfully!!!
+Elapsed time: 0m 48.91s
+
+
+[Start] exp: pelvis_50
+*[Algo]: cgls
+CGLS algorithm in progress.
+Estimated time until completion : 00:00:05
+Average time taken for each iteration for CGLS:0.47386275060707705(s)
+{'psnr_3d': 29.52294386314467, 'ssim_3d': 0.8257680192412186, 'CT_reconstruct_time': 8.098506450653076}
+Update pelvis_50 successfully!!!
+Elapsed time: 0m 37.97s
+
+
+[Start] exp: teapot_50
+*[Algo]: cgls
+CGLS algorithm in progress.
+Estimated time until completion : 00:00:01
+Average time taken for each iteration for CGLS:0.09906556400237605(s)
+{'psnr_3d': 29.51310452875175, 'ssim_3d': 0.8260461186133243, 'CT_reconstruct_time': 1.8655719757080078}
+Update teapot_50 successfully!!!
+Elapsed time: 0m 8.70s
